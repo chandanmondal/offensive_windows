@@ -1,6 +1,6 @@
 #cmd or bat easy to run. single click job done.
 PowerShell Set-ExecutionPolicy Unrestricted -f
-#PowerShell . { iwr -useb http://boxstarter.org/bootstrapper.ps1 } | iex; get-boxstarter -Force
+#PowerShell . { iwr -useb http://boxstarter.org/bootstrapper.ps1 };
 #list of chocolatey packages will be installed
 cinst -y 010editor.flare
 cinst -y 7zip.flare
