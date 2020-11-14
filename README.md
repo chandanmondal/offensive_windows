@@ -1,8 +1,8 @@
 # offensive_windows
 Quick to setup for offensive windows lab. Inspired by fireye, but an attempt to make single clickable. 
 
-Step 1: Install chocolately ==> run on powershell ==>./install.ps
+Step 1: To Install chocolately ==> run in powershell ==>./install.ps
 
-Step 2: Double click on chocolately.cmd
+Step 2: To install packges ==> Double click on chocolately.cmd
 
 --------Mission Complete-----------
